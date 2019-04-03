@@ -1,0 +1,32 @@
+SpaCy was used for this annotation
+here's an example:
+
+  The represented graphic shows information of changing proportions of polulation 65 aged people and over between 1940 and 2040 in Japan, Sweden and the USA
+<The DET><represented VERB><graphic NOUN><shows VERB><information NOUN><of ADP><changing VERB><proportions NOUN><of ADP><polulation NOUN><65 NUM><aged ADJ><people NOUN><and CCONJ><over ADV><between ADP><1940 NUM><and CCONJ><2040 NUM><in ADP><Japan PROPN><, PUNCT><Sweden PROPN><and CCONJ><the DET><USA PROPN>
+@  It is clear that the bottom level for Sveden and USA is taken place in 1940, while japanese lowest result  corresponse to 1980's
+<It PRON><is VERB><clear ADJ><that ADP><the DET><bottom ADJ><level NOUN><for ADP><Sveden PROPN><and CCONJ><USA PROPN><is VERB><taken VERB><place NOUN><in ADP><1940 NUM><, PUNCT><while ADP><japanese ADJ><lowest ADJ><result NOUN><  SPACE><corresponse NOUN><to ADP><1980 NUM><'s PART>
+@   Nevertheless a peak of proportion for all of three countries is real hed in 2040
+<  SPACE><Nevertheless ADV><a DET><peak NOUN><of ADP><proportion NOUN><for ADP><all DET><of ADP><three NUM><countries NOUN><is VERB><real ADJ><he PRON><d VERB><in ADP><2040 NUM>
+@  
+Tendences of changing propontions is not so obvious but Sweden and USA have nearly the same situvoion in part of graphic which represents period from 1940 to 1980
+<
+ SPACE><Tendences PROPN><of ADP><changing VERB><propontions NOUN><is VERB><not ADV><so ADV><obvious ADJ><but CCONJ><Sweden PROPN><and CCONJ><USA PROPN><have VERB><nearly ADV><the DET><same ADJ><situvoion NOUN><in ADP><part NOUN><of ADP><graphic NOUN><which ADJ><represents VERB><period NOUN><from ADP><1940 NUM><to ADP><1980 NUM>
+@   Percent of 65 aged and over people is steadly growing from 5-7 percent to 13-15 percent
+<  SPACE><Percent PROPN><of ADP><65 NUM><aged ADJ><and CCONJ><over ADP><people NOUN><is VERB><steadly ADV><growing VERB><from ADP><5 NUM><- SYM><7 NUM><percent NOUN><to ADP><13 NUM><- SYM><15 NUM><percent NOUN>
+@   At the same time Japan had steady decreasing from 5 to 3 percent
+<  SPACE><At ADP><the DET><same ADJ><time NOUN><Japan PROPN><had VERB><steady ADJ><decreasing VERB><from ADP><5 NUM><to PART><3 NUM><percent NOUN>
+@   After that period, Fluctuation of every country has changed
+<  SPACE><After ADP><that DET><period NOUN><, PUNCT><Fluctuation PROPN><of ADP><every DET><country NOUN><has VERB><changed VERB>
+@   142 Japan and Sweden part of elders has grown up in period between 1980 and nowadays, nevertheless USA keeps the same level
+<  SPACE><142 NUM><Japan PROPN><and CCONJ><Sweden PROPN><part NOUN><of ADP><elders NOUN><has VERB><grown VERB><up PART><in ADP><period NOUN><between ADP><1980 NUM><and CCONJ><nowadays ADV><, PUNCT><nevertheless ADV><USA PROPN><keeps VERB><the DET><same ADJ><level NOUN>
+@   Inspite of this facts, graphic shows suggested tendency of dramut: cully increasing proportion for all of three countries
+<  SPACE><Inspite PROPN><of ADP><this DET><facts NOUN><, PUNCT><graphic ADJ><shows NOUN><suggested VERB><tendency NOUN><of ADP><dramut NOUN><: PUNCT><cully ADV><increasing VERB><proportion NOUN><for ADP><all DET><of ADP><three NUM><countries NOUN>
+@  
+To sum up,  Japan,  Sweden and USA have different situation in the past and the present, but in the future proportion of polulution 65 aged persons will be nearly egual
+<
+ SPACE><To PART><sum VERB><up PART><, PUNCT><  SPACE><Japan PROPN><, PUNCT><  SPACE><Sweden PROPN><and CCONJ><USA PROPN><have VERB><different ADJ><situation NOUN><in ADP><the DET><past NOUN><and CCONJ><the DET><present NOUN><, PUNCT><but CCONJ><in ADP><the DET><future ADJ><proportion NOUN><of ADP><polulution NOUN><65 NUM><aged ADJ><persons NOUN><will VERB><be VERB><nearly ADV><egual ADJ>
+@   
+
+< 
+ SPACE>
+@
